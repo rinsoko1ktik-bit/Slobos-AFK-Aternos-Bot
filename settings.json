@@ -7,9 +7,9 @@
   },
   "server": {
     "ip": "nexsusmc.aternos.me",
-    "port":46529,
-    "version": "",
-    "try-creative": false
+    "port": 46529,
+    "version": "1.26.20.4",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to zokii!",
         "I like to play Minecraft!"
       ]
     },
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 10
     },
     "look-around": {
       "enabled": true,
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {
